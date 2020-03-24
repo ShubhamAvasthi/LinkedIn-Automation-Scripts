@@ -1,2 +1,2 @@
 # Fetch-LinkedIn-Connections
-A python based script to extract connection data from LinkedIn using Selenium WebDriver.
+Python scripts to extract connection data and send connection requests on LinkedIn using Selenium WebDriver.
